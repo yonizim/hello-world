@@ -1,2 +1,3 @@
 # hello-world
-basic tutorial about github
+basic tutorial about github.
+Developed by Yoni Zimmermann.
